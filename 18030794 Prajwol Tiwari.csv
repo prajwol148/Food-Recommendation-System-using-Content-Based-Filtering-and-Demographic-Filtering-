@@ -1,0 +1,117 @@
+dish_name,dish_type,additives,food_Taste,total_reviews,average_user_rating,total_order_quantity
+Tandoori Chicken,main course,"yogurt, chicken, honey, masala",spicy,33,6.9,25
+Malai Kofta,starter,"potatoes, carrots, beans, peas, sweet corn, paneer, cheese",spicy,63,8.8,63
+Mysore pak,dessert,"Besan flour, semolina, mung bean, jaggery, coconut, skimmed milk powder, sugar, ghee",sweet,24,3.6,45
+Misi roti,main course,"Whole wheat flour, chickpea flour, green chilies",spicy,8,6.6,42
+Gavvalu,dessert,"Rice flour, sugar, salt, ghee, semolina",sweet,36,9.9,33
+Chicken razala,main course,"Chicken, dahi, sesame seeds, garam masala powder, cashew nuts, saffron",spicy,23,4.9,15
+Chikki,dessert,"Peanuts, jaggery",sweet,16,4,44
+Paratha,main course,"Wheat flour, butter, potato, coriander",spicy,37,1.2,66
+Kulfi falooda,dessert,"Rose syrup, falooda sev, mixed nuts, saffron, sugar",sweet,50,6.5,12
+Bhatura,main course,"Chole, rava, yogurt, plain flour, baking soda",spicy,57,8.6,65
+Singori,dessert,"Khoa, coconut, molu leaf",sweet,56,7.4,34
+Pootharekulu,dessert,"Rice flour, powdered sugar, ghee",sweet,16,9.9,15
+Sandesh,dessert,"Milk, sugar, saffron, cardamom",sweet,33,7.3,67
+Kuzhi paniyaram,dessert,"Black lentils, rice",sweet,25,1.4,65
+Pithe,dessert,"Rice flour, wheat flour",sweet,8,6.4,28
+Daal baati churma,main course,"Moong dal, masoor dal, chana dal, wheat flour, almond",spicy,24,8.8,52
+Qubani ka meetha,dessert,"Apricots, sugar syrup",sweet,18,7.8,15
+Aloo methi,main course,"Potato, fenugreek leaves, chillies, salt, oil",bitter,38,7.6,95
+Aloo tikki,main course,"Rice flour, potato, bread crumbs, garam masala, salt",spicy,85,5.3,85
+Khichdi,main course,"Moong dal, green peas, ginger, tomato, green chili",spicy,36,7.4,19
+Pantua,dessert,"Chhena, sugar, ghee, flour",sweet,19,4.2,72
+Kajjikaya,dessert,"Rice flour, jaggery, coconut",sweet,4,8.3,45
+Bhindi masala,main course,"Ladies finger, garam masala, kasuri methi, tomatoes, chili powder",spicy,64,9.1,56
+Kalakand,dessert,"Milk, cottage cheese, sugar",sweet,23,6,12
+Kofta,main course,"Paneer, potato, cream, corn flour, garam masala",spicy,14,7.5,14
+Maach Jhol,main course,"Fish, potol, tomato, chillies, ginger, garlic",spicy,25,4.5,45
+Imarti,dessert,"Sugar syrup, lentil flour",sweet,5,7.2,45
+Kadai paneer,main course,"Cottage cheese, bell peppers, gravy, garam masala, cashew nuts",spicy,36,9.2,52
+Karela bharta,main course,"Bitter gourd, fennel, garam masala powder, chili powder, amchur powder",bitter,25,7.3,17
+Gajar ka halwa,dessert,"Carrots, milk, sugar, ghee, cashews, raisins",sweet,32,9.6,55
+Ghevar,dessert,"Flour, ghee, kewra, milk, clarified butter, sugar, almonds, pistachio, saffron, green cardamom",sweet,14,6.3,63
+Panjeeri,dessert,"Whole wheat flour, musk melon seeds, poppy seeds, edible gum, semolina",sweet,12,8.2,56
+Doodhpak,dessert,"Milk, rice, sugar, dry fruits",sweet,36,1.7,49
+Biryani,main course,"Chicken thighs, basmati rice, star anise, sweet, green chillies",spicy,79,4.8,54
+Bandar laddu,dessert,"Besan, jaggery, cardamom powder, ghee, cashews and raisins, jaggery syrup, sugar",sweet,35,2.6,22
+Poornalu,dessert,"Chana dal, jaggery",sweet,66,8.8,57
+Adhirasam,dessert,"Rice flour, jaggery, ghee, vegetable oil, elachi",sweet,63,8.6,55
+Kadhi pakoda,main course,"Besan, garam masala powder, gram flour, ginger, curry leaves",spicy,25,6.3,36
+Makki di roti sarson da saag,main course,"Palak, makki atta, mustard green, garam masala, ginger",spicy,6,5.3,21
+Poha,snack,"Beaten rice flakes, potato, curry leaves, green chilies, lemon juice",spicy,42,2.6,52
+Mushroom matar,main course,"Canned coconut milk, frozen green peas, wild mushrooms, garam masala, tomatoes",spicy,15,6,12
+Mihidana,dessert,"Besan flour, sugar, ghee",sweet,25,3.9,74
+Sohan halwa,dessert,"Corn flour, ghee, dry fruits",sweet,48,8.2,74
+Balu shahi,dessert,"Maida flour, yogurt, oil, sugar",sweet,26,9,56
+Phirni,dessert,"Rice, sugar, nuts",sweet,19,5,25
+Pork Bharta,main course,"Boiled pork, onions, chillies, ginger and garlic",spicy,86,4.8,48
+Kakinada khaja,dessert,"Wheat flour, sugar",sweet,22,1.3,74
+Pani puri,snack,"Kala chana, mashed potato, boondi, sev, lemon",spicy,35,3.6,84
+Lyangcha,dessert,"Flour, fried milk power, sugar syrup",sweet,28,6.5,94
+Sutar feni,dessert,"Maida, sugar, ghee",sweet,63,3.9,51
+Shrikhand,dessert,"Curd, sugar, saffron, cardamom",sweet,14,5.6,61
+Cham cham,dessert,"Flour, cream, sugar, saffron, lemon juice, coconut flakes",sweet,71,7.4,76
+Malapua,dessert,"Yoghurt, refined flour, ghee, fennel seeds",sweet,19,5,85
+Chana masala,main course,"Chickpeas, tomato paste, garam masala, ginger, red onion, avocado oil",spicy,36,7.3,45
+Dal makhani ,main course,"Red kidney beans, urad dal, cream, garam masala, chili powder",sweet,12,1.5,35
+Chole bhature,main course,"Chole, bhatura, garam masala, bay leaf, cinnamon stick",spicy,24,7.6,51
+Obbattu holige,main course,"Maida flour, turmeric, coconut, chickpeas, jaggery, ghee, cardamom",sweet,23,4.9,55
+Aloo shimla mirch,main course,"Potato, shimla mirch, garam masala, amchur powder, salt",spicy,48,7.8,65
+Modak,dessert,"Rice flour, coconut, jaggery ",sweet,58,4.6,32
+Paneer tikka masala,main course,"Paneer, greek yogurt, tandoori masala, cream, bell pepper",spicy,25,5,86
+Fara,snack,"Chana dal, whole wheat flour, arhar dal, white urad dal, garam masala powder",spicy,69,5.1,66
+Chicken Tikka masala,main course,"Naan bread, tomato sauce, skinless chicken breasts, heavy cream, garam masala",spicy,56,5.8,15
+Kheer sagar,dessert,"Chenna, condensed milk, sugar, saffron, cardamom",sweet,47,7.5,13
+Chhena poda,dessert,"Sugar, chenna cheese",sweet,66,7.3,85
+Boondi,dessert,"Gram flour, ghee, sugar",sweet,22,9.5,23
+Pongal,dessert,"Rice, jaggery, cashews, ghee",sweet,41,9.9,59
+Naan,main course,"Whole wheat flour, honey, butter, garlic",-1,24,3,56
+Aloo matar,main course,"Potato, peas, chillies, ginger, garam masala, garlic",spicy,36,6.2,59
+Dum aloo,main course,"Baby potatoes, garam masala, cashew nuts, kasuri methi, tomatoes",spicy,52,2.5,62
+Kachori,snack,"Moong dal, rava, garam masala, dough, fennel seeds",spicy,24,8.4,1
+Ledikeni,dessert,"Chhena, sugar, ghee",sweet,43,8.5,16
+Rabri,dessert,"Condensed milk, sugar, spices, nuts",sweet,26,2.5,85
+Shankarpali,dessert,"Sugar, ghee, maida flour, semolina",sweet,45,8.7,31
+Double ka meetha,dessert,"Loaf bread, milk",sweet,14,6,66
+Sheera,dessert,"Semolina, ghee, nuts, milk",sweet,74,6.3,96
+Dharwad pedha,dessert,"Milk, Sugar, Dharwadi buffalo milk",sweet,62,4.4,55
+Palak paneer,main course,"Cottage cheese, palak, cream, garam masala, butter",spicy,32,9,77
+Petha,dessert,"Firm white pumpkin, sugar, kitchen lime, alum powder",sweet,18,1,65
+Kheer,dessert,"Milk, rice, sugar, dried fruits",sweet,20,3,35
+Rasabali,dessert,"Chenna, sweetened milk",sweet,21,5.5,46
+Chhena jalebi,dessert,"Chhena, sugar, ghee",sweet,9,3.5,17
+Unni Appam,dessert,"Rice flour, banana, jaggery, coconut",sweet,9,7.9,13
+Chicken Tikka,starter,"Chicken, whole wheat bread, rice flour, garam masala powder, whole egg",spicy,24,6.4,51
+Laddu,dessert,"Gram flour, ghee, sugar",sweet,19,4,12
+Lauki ke kofte,main course,"Bottle gourd, garam masala powder, gram flour, ginger, chillies",spicy,56,4.6,24
+Palathalikalu,dessert,"Rice flour, milk",sweet,24,7.7,58
+Dal tadka,main course,"Pigeon peas, garam masala, ginger, red onion, kasuri methi",spicy,36,3.6,53
+Butter chicken,main course,"Chicken, greek yogurt, cream, garam masala powder, cashew nuts, butter",spicy,81,7.5,57
+Pattor,main course,"Arbi ke patte, sesame seeds, gur, bengal gram flour, imli",spicy,25,6.3,33
+Sheer korma,dessert,"Vermicelli pudding, milk",sweet,23,7.7,12
+Anarsa,dessert,"Rice flour, jaggery, khus-khus seeds",sweet,14,8.6,46
+Chak Hao Kheer,dessert,"Rice, milk, sugar, cardamom",sweet,45,6.1,57
+Sohan papdi,dessert,"Gram flour, ghee, sugar, milk, cardamom",sweet,3,3.6,16
+Aloo gobi,main course,"Cauliflower, potato, garam masala, turmeric, curry leaves",spicy,42,4.9,58
+Galho,main course,"Rice, axone, salt, water, chillies, pork",spicy,36,6.5,75
+Litti chokha,main course,"Wheat flour, roasted gram flour, tomato, nigella seeds, chilli",spicy,18,4.9,23
+Daal puri,main course,"Moong dal, garam masala powder, garlic, green chilli, all purpose flour",spicy,65,9.9,25
+Basundi,dessert,"Sugar, milk, nuts",sweet,25,8.8,47
+Papad,snack,"Urad dal, sev, lemon juice, chopped tomatoes",spicy,22,7.4,55
+Rasgulla,dessert,"Chhena, sugar, cardamom",sweet,22,6.3,53
+Mahim halwa,dessert,"Semolina, sugar",sweet,18,3.6,43
+Dhondas,dessert,"Cucumber, rava",sweet,28,1.5,48
+Chhena kheeri,dessert,"Chhena, sugar, milk",sweet,22,8.2,19
+Murgh Makhani,main course,"chicken, olive oil, onion, garlic, ginger, butter, tomato puree, kasuri methi ",spicy,24,6.4,45
+Gulab jamun,dessert,"Milk powder, plain flour, baking powder, ghee, milk, sugar, water, rose water",sweet,25,8.2,12
+Jalebi,dessert,"Maida, corn flour, baking soda, vinegar, curd, water, turmeric, saffron, cardamom",sweet,69,9.4,85
+Kaju katli,dessert,"Cashews, ghee, cardamom, sugar",sweet,71,8.2,45
+Navrattan korma,main course,"Green beans, potatoes, khus khus, low fat, garam masala powder",spicy,42,4,55
+Paneer butter masala,main course,"Paneer, whipping cream, garam masala, cashew nuts, butter",spicy,25,8,89
+Nankhatai,dessert,"Refined flour, besan, ghee, powdered sugar, yoghurt, green cardamom",sweet,14,2,45
+Ariselu,dessert,"Rice flour, jaggery, ghee",sweet,42,1.9,26
+Lassi,dessert,"Yogurt, milk, nuts, sugar",sweet,18,3,32
+Lauki ki subji,main course,"Bottle gourd, coconut oil, garam masala, ginger, green chillies",spicy,21,8.2,26
+Misti doi,dessert,"Milk, jaggery",sweet,36,7.3,73
+Mushroom do pyaza,main course,"Mushroom, malai, garam masala, ginger, capsicum",spicy,14,7.4,25
+Ras malai,dessert,"Chhena, reduced milk, pistachio",sweet,33,5.9,59
